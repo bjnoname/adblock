@@ -1,6 +1,7 @@
 # Mainly vatnik content
 ||glasove.com
 ||pogled.info
+||kritichno.bg
 ||afera.bg
 ||blitz.bg
 ||retro.bg
