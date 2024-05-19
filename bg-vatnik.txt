@@ -10,6 +10,7 @@
 ||trud.bg
 ||rod-bg.com
 ||svobodnoslovo.eu
+||safenews.bg
 
 # Social networks
 ||truthsocial.com
