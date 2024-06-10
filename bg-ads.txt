@@ -4,3 +4,10 @@
 ||linker.bg
 ||orangeclickmedia.com
 ||onnetwork.tv
+||privacy-center.org
+||onthe.io
+||newsroom.bi
+||mixpanel.com
+||infogram.com
+||mrf.io
+||quantcast.com
