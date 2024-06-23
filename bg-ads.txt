@@ -11,3 +11,6 @@
 ||infogram.com
 ||mrf.io
 ||quantcast.com
+||chimpstatic.com
+||mailchimp.com
+||yandex.st
