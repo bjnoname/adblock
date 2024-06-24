@@ -11,6 +11,8 @@
 ||rod-bg.com
 ||svobodnoslovo.eu
 ||safenews.bg
+||epicenter.bg
+||standartnews.eu
 
 # Social networks
 ||truthsocial.com
