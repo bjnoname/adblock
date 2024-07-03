@@ -13,6 +13,7 @@
 ||safenews.bg
 ||epicenter.bg
 ||standartnews.eu
+||flagman.bg
 
 # Social networks
 ||truthsocial.com
