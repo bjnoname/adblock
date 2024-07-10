@@ -16,3 +16,6 @@
 ||yandex.st
 ||pahtuz.tech
 ||onesignal.com
+||nowblogoview.pro
+||aduser-api.com
+||ads2native.com
