@@ -1,24 +1,24 @@
 # Mainly vatnik content
-||glasove.com
-||pogled.info
-||kritichno.bg
-||afera.bg
-||blitz.bg
-||retro.bg
-||focus.bg
-||fakti.bg
-||trud.bg
-||rod-bg.com
-||svobodnoslovo.eu
-||safenews.bg
-||epicenter.bg
-||standartnews.eu
-||flagman.bg
-||cross.bg
+||glasove.com^
+||pogled.info^
+||kritichno.bg^
+||afera.bg^
+||blitz.bg^
+||retro.bg^
+||focus.bg^
+||fakti.bg^
+||trud.bg^
+||rod-bg.com^
+||svobodnoslovo.eu^
+||safenews.bg^
+||epicenter.bg^
+||standartnews.eu^
+||flagman.bg^
+||cross.bg^
 
 # Social networks
-||truthsocial.com
-||telegram.org
+||truthsocial.com^
+||telegram.org^
 
 # Per country
 ||ru^

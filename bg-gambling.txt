@@ -1,6 +1,6 @@
 # Gambling related site
-||winbet.bg
-||winbetaffiliates.com
-||inbet.com
-||inbetpartners.com
-||betano.bg
+||winbet.bg^
+||winbetaffiliates.com^
+||inbet.com^
+||inbetpartners.com^
+||betano.bg^
