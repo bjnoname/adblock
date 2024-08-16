@@ -20,3 +20,6 @@
 ||nowblogoview.pro^
 ||aduser-api.com^
 ||ads2native.com^
+||releva.ai^
+||addtoany.com^
+||pju.si^
