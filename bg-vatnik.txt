@@ -23,3 +23,6 @@
 # Per country
 ||ru^
 ||cn^
+
+# Per top-level domain
+||pro^
