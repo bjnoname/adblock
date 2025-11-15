@@ -24,3 +24,11 @@
 ||addtoany.com^
 ||pju.si^
 ||wistia.com^
+||webekm.com^
+||pahtvs.tech^
+||mediathrive.com^
+||analytex-us.userpilot.io^
+||callback.ringostat.net^
+||storage.elfsight.com^
+||static.srvb1.com^
+||wlvpn.com^
